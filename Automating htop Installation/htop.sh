@@ -1,6 +1,6 @@
 #!/bin/bash
 
-command=/c/Users/HP/Desktop/Folder/Learning/htop
+command=/usr/bin/htop
 
 if [ -f $command ] 
 then
