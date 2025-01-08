@@ -1,4 +1,4 @@
-# Update Host Script
+# Universal Update Script
 
 This is a simple Bash script designed to check the operating system of the host machine and run the appropriate update commands based on the distribution. The script checks for **Arch-based** and **Debian/Ubuntu-based** distributions and runs the respective package manager commands.
 
