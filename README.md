@@ -23,7 +23,7 @@ The repository is organized into individual project folders. Each folder include
   - Validates input arguments and checks for required tools.
   - Automatically creates timestamped backup directories.
   - Logs backup activity for tracking.
-
+- Link to Poject [Backup Automation Script](https://github.com/Wasiu-lab/Bash-Scripting/tree/main/backup_Script)
 ---
 
 ### **2. Log Monitoring Script**
